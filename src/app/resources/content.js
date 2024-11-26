@@ -8,7 +8,7 @@ const person = {
     },
     role: 'Data Analytics & Sociology',
     avatar: '/images/avatar.jpg',
-    languages: ['English', 'Dutch']
+    languages: ['English', 'Dutch'],
 };
 
 const newsletter = {
